@@ -1,0 +1,116 @@
+[
+	{
+		"Id": 1,
+        "Latitude": -25.4321781,
+        "Longitude": -49.2796458,
+        "Descricao": "Centro"
+    },
+    {
+        "Id": 2,
+        "Latitude": -25.4461476,
+        "Longitude": -49.2727192,
+        "Descricao": "Rebouças"
+    },
+    {
+        "Id": 3,
+        "Latitude": -25.4568518,
+        "Longitude": -49.299854,
+        "Descricao": "Água Verde"
+    },
+    {
+        "Id": 4,
+        "Latitude": -25.4567809,
+        "Longitude": -49.3002304,
+        "Descricao": "Vila Izabel"
+    },
+    {
+        "Id": 5,
+        "Latitude": -25.4614398,
+        "Longitude": -49.2726586,
+        "Descricao": "Parolin"
+    },
+    {
+        "Id": 6,
+        "Latitude": -25.4566116,
+        "Longitude": -49.2703748,
+        "Descricao": "Prado Velho"
+    },
+    {
+        "Id": 7,
+        "Latitude": -25.4231746,
+        "Longitude": -49.2850692,
+        "Descricao": "São Francisco"
+    },
+    {
+        "Id": 8,
+        "Latitude": -25.4224595,
+        "Longitude": -49.3027503,
+        "Descricao": "Mercês"
+    },
+    {
+        "Id": 9,
+        "Latitude": -25.4280192,
+        "Longitude": -49.2550224,
+        "Descricao": "Alto da Rua XV"
+    },
+    {
+        "Id": 10,
+        "Latitude": -25.4349543,
+        "Longitude": -49.2533355,
+        "Descricao": "Cristo Rei"
+    },
+    {
+        "Id": 11,
+        "Latitude": -25.4199928,
+        "Longitude": -49.2660905,
+        "Descricao": "Alto da Glória"
+    },
+    {
+        "Id": 12,
+        "Latitude": -25.4157874,
+        "Longitude": -49.2668789,
+        "Descricao": "Juvevê"
+    },
+    {
+        "Id": 13,
+        "Latitude": -25.4413804,
+        "Longitude": -49.297017,
+        "Descricao": "Batel"
+    },
+    {
+        "Id": 14,
+        "Latitude": -25.5440798,
+        "Longitude": -49.2875541,
+        "Descricao": "Sítio Cercado"
+    },
+    {
+        "Id": 15,
+        "Latitude": -25.5419365,
+        "Longitude": -49.2725425,
+        "Descricao": "Alto Boqueirão"
+    },
+    {
+        "Id": 16,
+        "Latitude": -25.5054504,
+        "Longitude": -49.2704349,
+        "Descricao": "Boqueirão"
+    },
+    {
+        "Id": 17,
+        "Latitude": -25.575696,
+        "Longitude": -49.2935899,
+        "Descricao": "Ganchinho"
+    },
+    {
+        "Id": 18,
+        "Latitude": -25.5238818,
+        "Longitude": -49.3104457,
+        "Descricao": "Pinheirinho"
+    },
+    {
+        "Id": 19,
+        "Latitude": -25.506843,
+        "Longitude": -49.2859738,
+        "Descricao": "Xaxim"
+    }
+]
